@@ -1,4 +1,4 @@
-# water_point_status_prediction
+# Water Point Data Analysis and Prediction
 
 ### Summary
 
