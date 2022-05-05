@@ -18,5 +18,5 @@ Below datasets are used:
 ### Performance Summary
 Random Forest with Label encoding on balanced datset performed the best with accuracy of 97.32% and with F-1 score of 97.32%.
 <p align="center">
-  <img src="summary.png" alt="Summary" width="80" height="80">
+  <img src="summary.png" alt="Summary" width="720">
 </p>
