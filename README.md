@@ -8,7 +8,7 @@ This is the final report for the capstone project for my Master's in Analytics i
 
 Below datasets are used:
 * [Water Point Data](https://www.waterpointdata.org/access-data): This dataset is made by [Water Point Data Exchange](https://www.waterpointdata.org). It has 118,110 data points with 52 attributes including latitude, longitude, and the current status of each water point. It is being updated continuosly.
-* Soil, population, urban or rural information by location : [Esri database](http://sdf). License is needed for the Esri database.
+* Soil, population, urban or rural information by location : [Esri database](https://www.esri.com). License is needed for the Esri database.
 
 ### Statistical Methods
 * Data imbalance handling: undersampling
