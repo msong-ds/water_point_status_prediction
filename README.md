@@ -20,3 +20,5 @@ Random Forest with Label encoding on balanced datset performed the best with acc
 <p align="center">
   <img src="summary.png" alt="Summary" width="720">
 </p>
+
+For more details, please check [the final report](Water%20Point%20Data%20Analysis%20and%20Prediction.pdf)
